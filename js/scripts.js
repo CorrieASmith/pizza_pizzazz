@@ -46,7 +46,7 @@ $(document).ready(function() {
       var selectedSize = $("select#pizzaSize").val();
       var extraToppings = false;
 
-      if (selectedToppings === "All of the above") {
+      if (selectedToppings === "all of the toppings") {
         extraToppings = true;
       }
 
