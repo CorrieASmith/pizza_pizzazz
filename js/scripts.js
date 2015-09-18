@@ -1,6 +1,6 @@
 function Pizza(pizzaSize, extraToppings) {
-this.pizzaSize = pizzaSize;
-this.extraToppings = extraToppings;
+  this.pizzaSize = pizzaSize;
+  this.extraToppings = extraToppings;
 // this.howMany = howMany;
 }
 
